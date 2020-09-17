@@ -853,7 +853,7 @@ body {
     .ba-rocket {
       position: absolute;
       right: 180px;
-      top: 200px;
+      top: 235px;
       z-index: 9;
       max-width: 250px; } }
 
@@ -884,8 +884,9 @@ body {
     flex-wrap: wrap;
     width: 100%; }
   .ba-footer__email {
-    text-decoration: none;
     color: #808080; }
+    .ba-footer__email:hover {
+      text-decoration: none; }
   .ba-footer__item {
     padding-bottom: 10px; }
   .ba-footer__link {

@@ -853,7 +853,7 @@ body {
     .ba-rocket {
       position: absolute;
       right: 180px;
-      top: 130px;
+      top: 200px;
       z-index: 9;
       max-width: 250px; } }
 
